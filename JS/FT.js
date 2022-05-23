@@ -25,3 +25,4 @@ function normal3() {
     document.getElementById("tjt3").style.color="black"
 
 }
+
